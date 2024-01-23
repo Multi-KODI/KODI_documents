@@ -10,9 +10,12 @@
 |정하진|Frontend|
 
 ## 목차
+#### 설계
 1. [Sequence Diagram](#sequence-diagram)
 2. [ERD](#erd)
 3. [Class Diagram](#class-diagram)
+
+#### 구현
 4. [UI](#ui)
 5. [API](#api)
 
