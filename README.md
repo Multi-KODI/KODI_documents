@@ -16,8 +16,8 @@
 3. [Class Diagram](#class-diagram)
 
 #### 구현
-4. [UI](#ui)
-5. [API](#api)
+1. [UI](#ui)
+2. [API](#api)
 
 ## 설계
 ### Sequence Diagram
@@ -39,36 +39,50 @@
 
 ## 구현
 ### UI
-- 시작 페이지
+###### 시작 페이지
 ![시작페이지](https://github.com/Multi-KODI/KODI_documents/assets/86556226/a299bc4f-3215-4fbf-9bc9-b80e1911478c)
-- 로그인
+
+###### 로그인
 ![로그인](https://github.com/Multi-KODI/KODI_documents/assets/86556226/7cf26b65-df02-4507-b28b-4e7cc82e1954)
-- 회원가입
+
+###### 회원가입
 ![회원가입](https://github.com/Multi-KODI/KODI_documents/assets/86556226/77b132a4-cf1b-4ac6-a09a-c78336a4b81f)
-- 홈페이지
+
+###### 홈페이지
 ![홈페이지](https://github.com/Multi-KODI/KODI_documents/assets/86556226/cf31e189-2780-4184-bcc8-236c468935c7)
-- 모든 게시글 페이지
+
+###### 모든 게시글 페이지
 ![모든 게시글 페이지](https://github.com/Multi-KODI/KODI_documents/assets/86556226/1b9ea360-2036-471d-b26a-484bc1967f6a)
-- 게시글 상세 페이지
+
+###### 게시글 상세 페이지
 ![게시글상세페이지](https://github.com/Multi-KODI/KODI_documents/assets/86556226/ace9b7bd-0388-4210-a6f5-2cff31006ea0)
-- 게시글 작성 페이지
+
+###### 게시글 작성 페이지
 ![게시글 작성 페이지](https://github.com/Multi-KODI/KODI_documents/assets/86556226/da0fb4f4-b6f5-4510-96ee-29543eb5b587)
-- 게시글 수정 페이지
+
+###### 게시글 수정 페이지
 ![게시글 수정 페이지](https://github.com/Multi-KODI/KODI_documents/assets/86556226/f13f0cf3-cf90-43d8-bfe7-3e7321628eaa)
-- 지도 페이지
+
+###### 지도 페이지
 ![지도페이지](https://github.com/Multi-KODI/KODI_documents/assets/86556226/89b7f6c8-48f0-4603-8091-1a506c15edf8)
-- 여행 일정 관리 페이지
+
+###### 여행 일정 관리 페이지
 ![여행일정관리페이지](https://github.com/Multi-KODI/KODI_documents/assets/86556226/dc2efb3b-07d2-477c-a6f4-69b7f34f9307)
 ![여행일정](https://github.com/Multi-KODI/KODI_documents/assets/86556226/040b0410-0643-4117-b6c7-8354bbe11dae)
-- 외식비 정보 제공 페이지
+
+###### 외식비 정보 제공 페이지
 ![외식비제공페이지](https://github.com/Multi-KODI/KODI_documents/assets/86556226/d13c0166-9ed9-4694-8601-53a6c17cdca8)
-- 채팅 리스트 페이지
+
+###### 채팅 리스트 페이지
 ![채팅리스트페이지](https://github.com/Multi-KODI/KODI_documents/assets/86556226/b3a2a088-28b1-4fd2-8c01-5a5f5bba7abe)
-- 실시간 채팅 페이지
+
+###### 실시간 채팅 페이지
 ![실시간 채팅 페이지](https://github.com/Multi-KODI/KODI_documents/assets/86556226/f292b1a5-f092-45e1-bdc2-b47b00e11625)
-- 마이페이지
+
+###### 마이페이지
 ![마이페이지](https://github.com/Multi-KODI/KODI_documents/assets/86556226/80923ce4-d417-45e7-b21d-4250328c2ccb)
 ![마이페이지_친구목록](https://github.com/Multi-KODI/KODI_documents/assets/86556226/4fe73040-646c-4de7-9da2-467a697fe57a)
-- 관리자 페이지
+
+###### 관리자 페이지
 ![관리자 페이지 1](https://github.com/Multi-KODI/KODI_documents/assets/86556226/7c14e201-87d3-42d8-b207-ce0bf33d6381)
 ![관리자 페이지2](https://github.com/Multi-KODI/KODI_documents/assets/86556226/479afeec-ab41-4e76-ada5-e8ad51de1cc8)
